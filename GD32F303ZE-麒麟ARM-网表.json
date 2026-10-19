@@ -1,0 +1,5166 @@
+{
+ "pages": {
+  "Power-WIFI.SchDoc": {
+   "file": "Power-WIFI.SchDoc",
+   "components": [
+    {
+     "desig": "C1",
+     "libref": "Cap Pol SMD",
+     "params": {
+      "型号": "100uF/10V"
+     },
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "C2",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C3",
+     "libref": "Cap Pol SMD",
+     "params": {
+      "型号": "100uF/10V"
+     },
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "C4",
+     "libref": "Cap",
+     "params": {
+      "型号": "4.7uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C5",
+     "libref": "Cap",
+     "params": {
+      "型号": "NC"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C51",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C52",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C53",
+     "libref": "Cap",
+     "params": {
+      "型号": "10uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C7",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D10",
+     "libref": "Diode-LED",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D6",
+     "libref": "Diode-Bi-TVS",
+     "params": {
+      "型号": "SMBJ6.5CA"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "F1",
+     "libref": "Fuse",
+     "params": {
+      "型号": "1.1A/8V"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "J1",
+     "libref": "Header-USB-TYPEC",
+     "params": {},
+     "pin_count": 25,
+     "copies": 1
+    },
+    {
+     "desig": "J24",
+     "libref": "Header 1*4_2.54",
+     "params": {},
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "J26",
+     "libref": "Header 1*2-JUMP",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "J33",
+     "libref": "Header 2*5-JUMP",
+     "params": {},
+     "pin_count": 10,
+     "copies": 1
+    },
+    {
+     "desig": "L1",
+     "libref": "INDUCTOR",
+     "params": {
+      "型号": "2.2uH/3A"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R1",
+     "libref": "Res",
+     "params": {
+      "型号": "1.5k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R10",
+     "libref": "Res",
+     "params": {
+      "型号": "100k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R11",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R2",
+     "libref": "Res",
+     "params": {
+      "型号": "5.1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R3",
+     "libref": "Res",
+     "params": {
+      "型号": "22R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R5",
+     "libref": "Res",
+     "params": {
+      "型号": "22R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R68",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R7",
+     "libref": "Res",
+     "params": {
+      "型号": "5.1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R70",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R71",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R9",
+     "libref": "Res",
+     "params": {
+      "型号": "453k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "S1",
+     "libref": "SW-SPST",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "U14",
+     "libref": "ESP8684-MINI-1",
+     "params": {
+      "Comment": "ESP8684-MINI-1"
+     },
+     "pin_count": 53,
+     "copies": 1
+    },
+    {
+     "desig": "U3",
+     "libref": "APW7104",
+     "params": {
+      "型号": "APW7104"
+     },
+     "pin_count": 5,
+     "copies": 1
+    }
+   ],
+   "labels": [
+    "DCDC",
+    "USB供电",
+    "WIFI",
+    "上电后1-2秒，拔掉J26的跳线帽。",
+    "引出电源、地",
+    "更新WiFi固件时，先断开WiFi电源，然后短接J26，然后给WiFi上电。"
+   ],
+   "power_nets": [
+    "+5V",
+    "3V3",
+    "GND",
+    "USB_IN",
+    "WIFI_3V3"
+   ],
+   "text_netnames": [
+    "+5V",
+    "3V3",
+    "CC1",
+    "CC2",
+    "DN",
+    "DP",
+    "GND",
+    "IO8",
+    "IO9",
+    "PB10",
+    "PB11",
+    "PG7",
+    "U0RXD",
+    "U0TXD",
+    "USART2_RXD",
+    "USART2_TXD",
+    "USB_DM",
+    "USB_DP",
+    "WiFi_EN",
+    "WiFi_RXD",
+    "WiFi_TXD"
+   ]
+  },
+  "MCU.SchDoc": {
+   "file": "MCU.SchDoc",
+   "components": [
+    {
+     "desig": "BT1",
+     "libref": "Battery",
+     "params": {
+      "型号": ""
+     },
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "C10",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C11",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C12",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C13",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C14",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C15",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C16",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C17",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C18",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C19",
+     "libref": "Cap",
+     "params": {
+      "型号": "10pF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C20",
+     "libref": "Cap",
+     "params": {
+      "型号": "10pF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C21",
+     "libref": "Cap",
+     "params": {
+      "型号": "20pF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C22",
+     "libref": "Cap",
+     "params": {
+      "型号": "20pF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C23",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C24",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C25",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C26",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C27",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C8",
+     "libref": "Cap",
+     "params": {
+      "型号": "4.7uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C9",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D1",
+     "libref": "Diode-BAT54C",
+     "params": {
+      "型号": "BAT54C"
+     },
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "FB1",
+     "libref": "INDUCTOR",
+     "params": {
+      "型号": "600R±25% 100MHz"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "FB2",
+     "libref": "INDUCTOR",
+     "params": {
+      "型号": "600R±25% 100MHz"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "JTAG",
+     "libref": "Header 2*10_JTAG",
+     "params": {},
+     "pin_count": 20,
+     "copies": 1
+    },
+    {
+     "desig": "NRST",
+     "libref": "KEY",
+     "params": {},
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "R12",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R13",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R14",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R15",
+     "libref": "Res",
+     "params": {
+      "型号": "1M"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R16",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R17",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R18",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R19",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R20",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R21",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R59",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R61",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "SW2",
+     "libref": "SW SOP-2",
+     "params": {},
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "U1",
+     "libref": "GD32F303ZET6",
+     "params": {
+      "Comment": "GD32F303ZET6"
+     },
+     "pin_count": 288,
+     "copies": 2,
+     "pinmap": {
+      "1": {
+       "name": "PE2",
+       "net": "SPIFlash_CS",
+       "kind": "Text"
+      },
+      "2": {
+       "name": "PE3",
+       "net": "VS_XCS",
+       "kind": "Text"
+      },
+      "3": {
+       "name": "PE4",
+       "net": "VS_XDCS",
+       "kind": "Text"
+      },
+      "4": {
+       "name": "PE5",
+       "net": "VS_DREQ",
+       "kind": "Text"
+      },
+      "5": {
+       "name": "PE6",
+       "net": "LED2",
+       "kind": "Text"
+      },
+      "10": {
+       "name": "PF0",
+       "net": "EXMC_A0",
+       "kind": "Text"
+      },
+      "11": {
+       "name": "PF1",
+       "net": "EXMC_A1",
+       "kind": "Text"
+      },
+      "12": {
+       "name": "PF2",
+       "net": "EXMC_A2",
+       "kind": "Text"
+      },
+      "13": {
+       "name": "PF3",
+       "net": "EXMC_A3",
+       "kind": "Text"
+      },
+      "14": {
+       "name": "PF4",
+       "net": "EXMC_A4",
+       "kind": "Text"
+      },
+      "15": {
+       "name": "PF5",
+       "net": "EXMC_A5",
+       "kind": "Text"
+      },
+      "18": {
+       "name": "PF6",
+       "net": "LED3",
+       "kind": "Text"
+      },
+      "19": {
+       "name": "PF7",
+       "net": "",
+       "kind": ""
+      },
+      "20": {
+       "name": "PF8",
+       "net": "",
+       "kind": ""
+      },
+      "21": {
+       "name": "PF9",
+       "net": "TP_SDA",
+       "kind": "Text"
+      },
+      "22": {
+       "name": "PF10",
+       "net": "TP_SCL",
+       "kind": "Text"
+      },
+      "23": {
+       "name": "OSCIN",
+       "net": "OSC_IN",
+       "kind": "Text"
+      },
+      "24": {
+       "name": "OSCOUT",
+       "net": "OSC_OUT",
+       "kind": "Text"
+      },
+      "25": {
+       "name": "NRST",
+       "net": "NRST",
+       "kind": "Text"
+      },
+      "26": {
+       "name": "PC0",
+       "net": "",
+       "kind": ""
+      },
+      "27": {
+       "name": "PC1",
+       "net": "",
+       "kind": ""
+      },
+      "28": {
+       "name": "PC2",
+       "net": "ADJ_RES",
+       "kind": "Text"
+      },
+      "29": {
+       "name": "PC3",
+       "net": "ADC_TEMP",
+       "kind": "Text"
+      },
+      "34": {
+       "name": "PA0_WKUP",
+       "net": "KEY1",
+       "kind": "Text"
+      },
+      "35": {
+       "name": "PA1",
+       "net": "LCD_BL",
+       "kind": "Text"
+      },
+      "36": {
+       "name": "PA2",
+       "net": "USART1_TX",
+       "kind": "Text"
+      },
+      "37": {
+       "name": "PA3",
+       "net": "USART1_RX",
+       "kind": "Text"
+      },
+      "40": {
+       "name": "PA4",
+       "net": "I2S2_WS",
+       "kind": "Text"
+      },
+      "41": {
+       "name": "PA5",
+       "net": "VS_SCK",
+       "kind": "Text"
+      },
+      "42": {
+       "name": "PA6",
+       "net": "VS_MISO",
+       "kind": "Text"
+      },
+      "43": {
+       "name": "PA7",
+       "net": "VS_MOSI",
+       "kind": "Text"
+      },
+      "44": {
+       "name": "PC4",
+       "net": "ADC_RH",
+       "kind": "Text"
+      },
+      "45": {
+       "name": "PC5",
+       "net": "RS485_RE/DE",
+       "kind": "Text"
+      },
+      "46": {
+       "name": "PB0",
+       "net": "TIMER2_CH2",
+       "kind": "Text"
+      },
+      "47": {
+       "name": "PB1",
+       "net": "TIMER2_CH3",
+       "kind": "Text"
+      },
+      "48": {
+       "name": "PB2",
+       "net": "BOOT1",
+       "kind": "Text"
+      },
+      "49": {
+       "name": "PF11",
+       "net": "IRLED_INT",
+       "kind": "Text"
+      },
+      "50": {
+       "name": "PF12",
+       "net": "EXMC_A6",
+       "kind": "Text"
+      },
+      "53": {
+       "name": "PF13",
+       "net": "EXMC_A7",
+       "kind": "Text"
+      },
+      "54": {
+       "name": "PF14",
+       "net": "EXMC_A8",
+       "kind": "Text"
+      },
+      "55": {
+       "name": "PF15",
+       "net": "EXMC_A9",
+       "kind": "Text"
+      },
+      "56": {
+       "name": "PG0",
+       "net": "EXMC_A10",
+       "kind": "Text"
+      },
+      "57": {
+       "name": "PG1",
+       "net": "EXMC_A11",
+       "kind": "Text"
+      },
+      "58": {
+       "name": "PE7",
+       "net": "EXMC_D4",
+       "kind": "Text"
+      },
+      "59": {
+       "name": "PE8",
+       "net": "EXMC_D5",
+       "kind": "Text"
+      },
+      "60": {
+       "name": "PE9",
+       "net": "EXMC_D6",
+       "kind": "Text"
+      },
+      "63": {
+       "name": "PE10",
+       "net": "EXMC_D7",
+       "kind": "Text"
+      },
+      "64": {
+       "name": "PE11",
+       "net": "EXMC_D8",
+       "kind": "Text"
+      },
+      "65": {
+       "name": "PE12",
+       "net": "EXMC_D9",
+       "kind": "Text"
+      },
+      "66": {
+       "name": "PE13",
+       "net": "EXMC_D10",
+       "kind": "Text"
+      },
+      "67": {
+       "name": "PE14",
+       "net": "EXMC_D11",
+       "kind": "Text"
+      },
+      "68": {
+       "name": "PE15",
+       "net": "EXMC_D12",
+       "kind": "Text"
+      },
+      "69": {
+       "name": "PB10",
+       "net": "USART2_TXD",
+       "kind": "Text"
+      },
+      "70": {
+       "name": "PB11",
+       "net": "USART2_RXD",
+       "kind": "Text"
+      },
+      "73": {
+       "name": "PB12",
+       "net": "TP_INT",
+       "kind": "Text"
+      },
+      "74": {
+       "name": "PB13",
+       "net": "SPI0_CLK",
+       "kind": "Text"
+      },
+      "75": {
+       "name": "PB14",
+       "net": "SPI0_MISO",
+       "kind": "Text"
+      },
+      "76": {
+       "name": "PB15",
+       "net": "SPI0_MOSI",
+       "kind": "Text"
+      },
+      "77": {
+       "name": "PD8",
+       "net": "EXMC_D13",
+       "kind": "Text"
+      },
+      "78": {
+       "name": "PD9",
+       "net": "EXMC_D14",
+       "kind": "Text"
+      },
+      "79": {
+       "name": "PD10",
+       "net": "EXMC_D15",
+       "kind": "Text"
+      },
+      "80": {
+       "name": "PD11",
+       "net": "EXMC_A16",
+       "kind": "Text"
+      },
+      "81": {
+       "name": "PD12",
+       "net": "EXMC_A17",
+       "kind": "Text"
+      },
+      "82": {
+       "name": "PD13",
+       "net": "EXMC_A18",
+       "kind": "Text"
+      },
+      "85": {
+       "name": "PD14",
+       "net": "EXMC_D0",
+       "kind": "Text"
+      },
+      "86": {
+       "name": "PD15",
+       "net": "EXMC_D1",
+       "kind": "Text"
+      },
+      "87": {
+       "name": "PG2",
+       "net": "EXMC_A12",
+       "kind": "Text"
+      },
+      "88": {
+       "name": "PG3",
+       "net": "EXMC_A13",
+       "kind": "Text"
+      },
+      "89": {
+       "name": "PG4",
+       "net": "EXMC_A14",
+       "kind": "Text"
+      },
+      "90": {
+       "name": "PG5",
+       "net": "EXMC_A15",
+       "kind": "Text"
+      },
+      "91": {
+       "name": "PG6",
+       "net": "EXMC_INT1",
+       "kind": "Text"
+      },
+      "92": {
+       "name": "PG7",
+       "net": "WiFi_EN",
+       "kind": "Text"
+      },
+      "93": {
+       "name": "PG8",
+       "net": "SPK_CTRL",
+       "kind": "Text"
+      },
+      "96": {
+       "name": "PC6",
+       "net": "IF_OUT",
+       "kind": "Text"
+      },
+      "97": {
+       "name": "PC7",
+       "net": "",
+       "kind": ""
+      },
+      "98": {
+       "name": "PC8",
+       "net": "SDIO_DAT0",
+       "kind": "Text"
+      },
+      "99": {
+       "name": "PC9",
+       "net": "SDIO_DAT1",
+       "kind": "Text"
+      },
+      "100": {
+       "name": "PA8",
+       "net": "LED1",
+       "kind": "Text"
+      },
+      "101": {
+       "name": "PA9",
+       "net": "USART0_TX",
+       "kind": "Text"
+      },
+      "102": {
+       "name": "PA10",
+       "net": "USART0_RX",
+       "kind": "Text"
+      },
+      "103": {
+       "name": "PA11",
+       "net": "USB_DM",
+       "kind": "Text"
+      },
+      "104": {
+       "name": "PA12",
+       "net": "USB_DP",
+       "kind": "Text"
+      },
+      "105": {
+       "name": "PA13",
+       "net": "TMS-SWDIO",
+       "kind": "Text"
+      },
+      "106": {
+       "name": "NC",
+       "net": "",
+       "kind": ""
+      },
+      "109": {
+       "name": "PA14",
+       "net": "TCK-SWCLK",
+       "kind": "Text"
+      },
+      "110": {
+       "name": "PA15",
+       "net": "TDI",
+       "kind": "Text"
+      },
+      "111": {
+       "name": "PC10",
+       "net": "SDIO_DAT2",
+       "kind": "Text"
+      },
+      "112": {
+       "name": "PC11",
+       "net": "SDIO_DAT3",
+       "kind": "Text"
+      },
+      "113": {
+       "name": "PC12",
+       "net": "SDIO_CLK",
+       "kind": "Text"
+      },
+      "114": {
+       "name": "PD0",
+       "net": "EXMC_D2",
+       "kind": "Text"
+      },
+      "115": {
+       "name": "PD1",
+       "net": "EXMC_D3",
+       "kind": "Text"
+      },
+      "116": {
+       "name": "PD2",
+       "net": "SDIO_CMD",
+       "kind": "Text"
+      },
+      "117": {
+       "name": "PD3",
+       "net": "SDIO_CD",
+       "kind": "Text"
+      },
+      "118": {
+       "name": "PD4",
+       "net": "EXMC_NOE",
+       "kind": "Text"
+      },
+      "119": {
+       "name": "PD5",
+       "net": "EXMC_NWE",
+       "kind": "Text"
+      },
+      "122": {
+       "name": "PD6",
+       "net": "EXMC_NWAIT",
+       "kind": "Text"
+      },
+      "123": {
+       "name": "PD7",
+       "net": "EXMC_NCE1",
+       "kind": "Text"
+      },
+      "124": {
+       "name": "PG9",
+       "net": "EXMC_NE1",
+       "kind": "Text"
+      },
+      "125": {
+       "name": "PG10",
+       "net": "",
+       "kind": ""
+      },
+      "126": {
+       "name": "PG11",
+       "net": "",
+       "kind": ""
+      },
+      "127": {
+       "name": "PG12",
+       "net": "EXMC_NE3",
+       "kind": "Text"
+      },
+      "128": {
+       "name": "PG13",
+       "net": "KEY2",
+       "kind": "Text"
+      },
+      "129": {
+       "name": "PG14",
+       "net": "KEY3",
+       "kind": "Text"
+      },
+      "132": {
+       "name": "PG15",
+       "net": "KEY4",
+       "kind": "Text"
+      },
+      "133": {
+       "name": "PB3",
+       "net": "TDO",
+       "kind": "Text"
+      },
+      "134": {
+       "name": "PB4",
+       "net": "JNTRST",
+       "kind": "Text"
+      },
+      "135": {
+       "name": "PB5",
+       "net": "I2S_SD",
+       "kind": "Text"
+      },
+      "136": {
+       "name": "PB6",
+       "net": "I2C0_SCL",
+       "kind": "Text"
+      },
+      "137": {
+       "name": "PB7",
+       "net": "I2C0_SDA",
+       "kind": "Text"
+      },
+      "138": {
+       "name": "BOOT0",
+       "net": "BOOT0",
+       "kind": "Text"
+      },
+      "139": {
+       "name": "PB8",
+       "net": "SPK",
+       "kind": "Text"
+      },
+      "140": {
+       "name": "PB9",
+       "net": "TP_RST",
+       "kind": "Text"
+      },
+      "141": {
+       "name": "PE0",
+       "net": "EXMC_NBL0",
+       "kind": "Text"
+      },
+      "142": {
+       "name": "PE1",
+       "net": "EXMC_NBL1",
+       "kind": "Text"
+      },
+      "8": {
+       "name": "PC14-OSC32IN",
+       "net": "OSC32_IN",
+       "kind": "Text"
+      },
+      "9": {
+       "name": "PC15-OSC32OUT",
+       "net": "OSC32_OUT",
+       "kind": "Text"
+      },
+      "7": {
+       "name": "PC13-TAMPER-RTC",
+       "net": "VS_RST",
+       "kind": "Text"
+      },
+      "6": {
+       "name": "VBAT",
+       "net": "VBAT",
+       "kind": "PowerPin"
+      },
+      "16": {
+       "name": "VSS_5",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "17": {
+       "name": "VDD_5",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "30": {
+       "name": "VSSA",
+       "net": "AGND",
+       "kind": "PowerPin"
+      },
+      "31": {
+       "name": "VREF-",
+       "net": "VREF-",
+       "kind": "PowerPin"
+      },
+      "32": {
+       "name": "VREF+",
+       "net": "VREF+",
+       "kind": "PowerPin"
+      },
+      "33": {
+       "name": "VDDA",
+       "net": "VDDA",
+       "kind": "PowerPin"
+      },
+      "38": {
+       "name": "VSS_4",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "39": {
+       "name": "VDD_4",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "51": {
+       "name": "VSS_6",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "52": {
+       "name": "VDD_6",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "61": {
+       "name": "VSS_7",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "62": {
+       "name": "VDD_7",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "71": {
+       "name": "VSS_1",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "72": {
+       "name": "VDD_1",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "83": {
+       "name": "VSS_8",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "84": {
+       "name": "VDD_8",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "94": {
+       "name": "VSS_9",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "95": {
+       "name": "VDD_9",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "107": {
+       "name": "VSS_2",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "108": {
+       "name": "VDD_2",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "120": {
+       "name": "VSS_10",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "121": {
+       "name": "VDD_10",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "130": {
+       "name": "VSS_11",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "131": {
+       "name": "VDD_11",
+       "net": "3V3",
+       "kind": "PowerPin"
+      },
+      "143": {
+       "name": "VSS_3",
+       "net": "GND",
+       "kind": "PowerPin"
+      },
+      "144": {
+       "name": "VDD_3",
+       "net": "3V3",
+       "kind": "PowerPin"
+      }
+     }
+    },
+    {
+     "desig": "Y1",
+     "libref": "XTAL-2",
+     "params": {
+      "规格": "32.768KHz"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "Y2",
+     "libref": "XTAL-4",
+     "params": {
+      "型号": "8MHz"
+     },
+     "pin_count": 4,
+     "copies": 1
+    }
+   ],
+   "labels": [
+    "1",
+    "BOOT",
+    "CAN_RX",
+    "CAN_TX",
+    "JTAG",
+    "MCU",
+    "N",
+    "O",
+    "USB_DM",
+    "USB_DP",
+    "VBAT",
+    "复位",
+    "晶振"
+   ],
+   "power_nets": [
+    "3V3",
+    "AGND",
+    "GND",
+    "VBAT",
+    "VDD",
+    "VDDA",
+    "VREF"
+   ],
+   "text_netnames": [
+    "ADC_RH",
+    "ADC_TEMP",
+    "ADJ_RES",
+    "BOOT0",
+    "BOOT1",
+    "EXMC_A0",
+    "EXMC_A1",
+    "EXMC_A10",
+    "EXMC_A11",
+    "EXMC_A12",
+    "EXMC_A13",
+    "EXMC_A14",
+    "EXMC_A15",
+    "EXMC_A16",
+    "EXMC_A17",
+    "EXMC_A18",
+    "EXMC_A2",
+    "EXMC_A3",
+    "EXMC_A4",
+    "EXMC_A5",
+    "EXMC_A6",
+    "EXMC_A7",
+    "EXMC_A8",
+    "EXMC_A9",
+    "EXMC_D0",
+    "EXMC_D1",
+    "EXMC_D10",
+    "EXMC_D11",
+    "EXMC_D12",
+    "EXMC_D13",
+    "EXMC_D14",
+    "EXMC_D15",
+    "EXMC_D2",
+    "EXMC_D3",
+    "EXMC_D4",
+    "EXMC_D5",
+    "EXMC_D6",
+    "EXMC_D7",
+    "EXMC_D8",
+    "EXMC_D9",
+    "EXMC_INT1",
+    "EXMC_NBL0",
+    "EXMC_NBL1",
+    "EXMC_NCE1",
+    "EXMC_NE1",
+    "EXMC_NE3",
+    "EXMC_NOE",
+    "EXMC_NWAIT",
+    "EXMC_NWE",
+    "EXMC_RS",
+    "I2C0_SCL",
+    "I2C0_SDA",
+    "I2S2_WS",
+    "I2S_SD",
+    "IF_OUT",
+    "IRLED_INT",
+    "JNTRST",
+    "KEY1",
+    "KEY2",
+    "KEY3",
+    "KEY4",
+    "LCD_BL",
+    "LED1",
+    "LED2",
+    "LED3",
+    "NRST",
+    "OSC32_IN",
+    "OSC32_OUT",
+    "OSC_IN",
+    "OSC_OUT",
+    "PA0",
+    "PA1",
+    "PA10",
+    "PA11",
+    "PA12",
+    "PA13",
+    "PA14",
+    "PA15",
+    "PA2",
+    "PA3",
+    "PA4",
+    "PA5",
+    "PA6",
+    "PA7",
+    "PA8",
+    "PA9",
+    "PB0",
+    "PB1",
+    "PB10",
+    "PB11",
+    "PB12",
+    "PB13",
+    "PB14",
+    "PB15",
+    "PB2",
+    "PB3",
+    "PB4",
+    "PB5",
+    "PB6",
+    "PB7",
+    "PB8",
+    "PB9",
+    "PC0",
+    "PC1",
+    "PC10",
+    "PC11",
+    "PC12",
+    "PC13",
+    "PC14",
+    "PC15",
+    "PC2",
+    "PC3",
+    "PC4",
+    "PC5",
+    "PC6",
+    "PC7",
+    "PC8",
+    "PC9",
+    "PD0",
+    "PD1",
+    "PD10",
+    "PD11",
+    "PD12",
+    "PD13",
+    "PD14",
+    "PD15",
+    "PD2",
+    "PD3",
+    "PD4",
+    "PD5",
+    "PD6",
+    "PD7",
+    "PD8",
+    "PD9",
+    "PE0",
+    "PE1",
+    "PE10",
+    "PE11",
+    "PE12",
+    "PE13",
+    "PE14",
+    "PE15",
+    "PE2",
+    "PE3",
+    "PE4",
+    "PE5",
+    "PE6",
+    "PE7",
+    "PE8",
+    "PE9",
+    "PF0",
+    "PF1",
+    "PF10",
+    "PF11",
+    "PF12",
+    "PF13",
+    "PF14",
+    "PF15",
+    "PF2",
+    "PF3",
+    "PF4",
+    "PF5",
+    "PF6",
+    "PF7",
+    "PF8",
+    "PF9",
+    "PG0",
+    "PG1",
+    "PG10",
+    "PG11",
+    "PG12",
+    "PG13",
+    "PG14",
+    "PG15",
+    "PG2",
+    "PG3",
+    "PG4",
+    "PG5",
+    "PG6",
+    "PG7",
+    "PG8",
+    "PG9",
+    "RS485_RE/DE",
+    "RTCK",
+    "SDIO_CD",
+    "SDIO_CLK",
+    "SDIO_CMD",
+    "SDIO_DAT0",
+    "SDIO_DAT1",
+    "SDIO_DAT2",
+    "SDIO_DAT3",
+    "SPI0_CLK",
+    "SPI0_MISO",
+    "SPI0_MOSI",
+    "SPIFlash_CS",
+    "SPK",
+    "SPK_CTRL",
+    "TCK-SWCLK",
+    "TDI",
+    "TDO",
+    "TIMER2_CH2",
+    "TIMER2_CH3",
+    "TMS-SWDIO",
+    "TP_INT",
+    "TP_RST",
+    "TP_SCL",
+    "TP_SDA",
+    "USART0_RX",
+    "USART0_TX",
+    "USART1_RX",
+    "USART1_TX",
+    "USART2_RXD",
+    "USART2_TXD",
+    "VS_DREQ",
+    "VS_MISO",
+    "VS_MOSI",
+    "VS_RST",
+    "VS_SCK",
+    "VS_XCS",
+    "VS_XDCS",
+    "WiFi_EN"
+   ]
+  },
+  "Sensors-LED-KEY-USB_.SchDoc": {
+   "file": "Sensors-LED-KEY-USB_.SchDoc",
+   "components": [
+    {
+     "desig": "BZ",
+     "libref": "BUZZER",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C43",
+     "libref": "Cap",
+     "params": {
+      "型号": "2.2uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C44",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C45",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C46",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C47",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C48",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C49",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C50",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D2",
+     "libref": "Diode-LED",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D3",
+     "libref": "Diode-LED",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D4",
+     "libref": "Diode-LED",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D7",
+     "libref": "Diode",
+     "params": {
+      "型号": "1N5819"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D9",
+     "libref": "Diode",
+     "params": {
+      "型号": "1N4148"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "J10",
+     "libref": "Header-USB-TYPEC",
+     "params": {},
+     "pin_count": 25,
+     "copies": 1
+    },
+    {
+     "desig": "J21",
+     "libref": "Header 1*2_2.54",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "KEY1",
+     "libref": "KEY",
+     "params": {},
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "KEY2",
+     "libref": "KEY",
+     "params": {},
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "KEY3",
+     "libref": "KEY",
+     "params": {},
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "KEY4",
+     "libref": "KEY",
+     "params": {},
+     "pin_count": 4,
+     "copies": 1
+    },
+    {
+     "desig": "Q2",
+     "libref": "NPN",
+     "params": {
+      "型号": "8050"
+     },
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "Q3",
+     "libref": "NPN",
+     "params": {
+      "型号": "8050"
+     },
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "Q4",
+     "libref": "PNP",
+     "params": {
+      "型号": "S8550"
+     },
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "R100",
+     "libref": "Res",
+     "params": {
+      "型号": "5.1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R101",
+     "libref": "Res",
+     "params": {
+      "型号": "22R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R4",
+     "libref": "Res",
+     "params": {
+      "型号": "22R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R43",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R44",
+     "libref": "Res",
+     "params": {
+      "型号": "100R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R45",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R46",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R47",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R51",
+     "libref": "Res",
+     "params": {
+      "型号": "4.7k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R52",
+     "libref": "Res",
+     "params": {
+      "型号": "4.7k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R53",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R54",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R55",
+     "libref": "Res",
+     "params": {
+      "型号": "51R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R56",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R57",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R58",
+     "libref": "Res",
+     "params": {
+      "型号": "4.7k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R60",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R62",
+     "libref": "Res",
+     "params": {
+      "型号": "1M"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R63",
+     "libref": "Res",
+     "params": {
+      "型号": "470R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R64",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R65",
+     "libref": "Res",
+     "params": {
+      "型号": "39k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R66",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R69",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R77",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R79",
+     "libref": "Res",
+     "params": {
+      "型号": "4.7k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R91",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R94",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R95",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R96",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R97",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R99",
+     "libref": "Res",
+     "params": {
+      "型号": "5.1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "RA1",
+     "libref": "RES ADJ",
+     "params": {
+      "型号": ""
+     },
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "RH1",
+     "libref": "Res RH",
+     "params": {
+      "型号": "31K"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "RT1",
+     "libref": "Res NTC",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "U12",
+     "libref": "IRM-6638T",
+     "params": {
+      "型号": "IRM-1838"
+     },
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "U13",
+     "libref": "CH340C",
+     "params": {
+      "Comment": "CH340C"
+     },
+     "pin_count": 16,
+     "copies": 1
+    }
+   ],
+   "labels": [
+    "47-220R",
+    "IR",
+    "LED",
+    "USB转串口",
+    "≥10k",
+    "≥2.2uF",
+    "可调电阻",
+    "按键",
+    "湿敏电阻",
+    "热敏电阻",
+    "蜂鸣器"
+   ],
+   "power_nets": [
+    "+5V",
+    "3V3",
+    "GND",
+    "VDD_USB"
+   ],
+   "text_netnames": [
+    "ADC_RH",
+    "ADC_TEMP",
+    "ADJ_RES",
+    "BOOT0",
+    "DRT#",
+    "D_N",
+    "D_P",
+    "IF_OUT",
+    "KEY1",
+    "KEY2",
+    "KEY3",
+    "KEY4",
+    "LED1",
+    "LED2",
+    "LED3",
+    "NRST",
+    "PA0",
+    "PA8",
+    "PB0",
+    "PB1",
+    "PB8",
+    "PC2",
+    "PC3",
+    "PC4",
+    "PC6",
+    "PE6",
+    "PF6",
+    "PG13",
+    "PG14",
+    "PG15",
+    "RTS#",
+    "SPK",
+    "TIMER2_CH2",
+    "TIMER2_CH3",
+    "USART0_RX",
+    "USART0_TX",
+    "USB_RX",
+    "USB_TX"
+   ]
+  },
+  "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc": {
+   "file": "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "components": [
+    {
+     "desig": "C36",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C37",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C38",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C39",
+     "libref": "Cap",
+     "params": {
+      "型号": "2.2uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C41",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C42",
+     "libref": "Cap",
+     "params": {
+      "型号": "22uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C91",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C94",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C95",
+     "libref": "Cap",
+     "params": {
+      "型号": "4.7uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "JP1",
+     "libref": "Header 2*29_2.54",
+     "params": {
+      "Comment": "Header 2*29_2.54"
+     },
+     "pin_count": 116,
+     "copies": 2
+    },
+    {
+     "desig": "JP2",
+     "libref": "Header 2*29_2.54",
+     "params": {
+      "Comment": "Header 2*29_2.54"
+     },
+     "pin_count": 116,
+     "copies": 2
+    },
+    {
+     "desig": "R30",
+     "libref": "Res",
+     "params": {
+      "型号": "100R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R31",
+     "libref": "Res",
+     "params": {
+      "型号": "4.7k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R32",
+     "libref": "Res",
+     "params": {
+      "型号": "4.7k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R33",
+     "libref": "Res",
+     "params": {
+      "型号": "100R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R34",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R39",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R40",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R41",
+     "libref": "Res",
+     "params": {
+      "型号": "4.7k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R42",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R98",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "U10",
+     "libref": "GD25Q128ES2",
+     "params": {
+      "Comment": "GD25Q128ES2"
+     },
+     "pin_count": 8,
+     "copies": 1
+    },
+    {
+     "desig": "U11",
+     "libref": "3.5吋屏幕",
+     "params": {},
+     "pin_count": 34,
+     "copies": 1
+    },
+    {
+     "desig": "U6",
+     "libref": "IS62WV51216BLL-55TLI",
+     "params": {
+      "型号": "IS62WV51216BLL"
+     },
+     "pin_count": 44,
+     "copies": 1
+    },
+    {
+     "desig": "U8",
+     "libref": "AP3216C",
+     "params": {
+      "Comment": "AP3216C"
+     },
+     "pin_count": 8,
+     "copies": 1
+    },
+    {
+     "desig": "U9",
+     "libref": "AT24C02",
+     "params": {
+      "Comment": "AT24C02"
+     },
+     "pin_count": 8,
+     "copies": 1
+    }
+   ],
+   "labels": [
+    "ALS+PS+IRLED",
+    "EEPROM",
+    "LCD",
+    "NOR FLASH",
+    "SRAM",
+    "引出IO"
+   ],
+   "power_nets": [
+    "3V3",
+    "GND"
+   ],
+   "text_netnames": [
+    "BOOT0",
+    "EXMC_A0",
+    "EXMC_A1",
+    "EXMC_A10",
+    "EXMC_A11",
+    "EXMC_A12",
+    "EXMC_A13",
+    "EXMC_A14",
+    "EXMC_A15",
+    "EXMC_A16",
+    "EXMC_A17",
+    "EXMC_A18",
+    "EXMC_A2",
+    "EXMC_A3",
+    "EXMC_A4",
+    "EXMC_A5",
+    "EXMC_A6",
+    "EXMC_A7",
+    "EXMC_A8",
+    "EXMC_A9",
+    "EXMC_D0",
+    "EXMC_D1",
+    "EXMC_D10",
+    "EXMC_D11",
+    "EXMC_D12",
+    "EXMC_D13",
+    "EXMC_D14",
+    "EXMC_D15",
+    "EXMC_D2",
+    "EXMC_D3",
+    "EXMC_D4",
+    "EXMC_D5",
+    "EXMC_D6",
+    "EXMC_D7",
+    "EXMC_D8",
+    "EXMC_D9",
+    "EXMC_NBL0",
+    "EXMC_NBL1",
+    "EXMC_NE1",
+    "EXMC_NE3",
+    "EXMC_NOE",
+    "EXMC_NWE",
+    "EXMC_RS",
+    "I2C0_SCL",
+    "I2C0_SDA",
+    "I2C1_SCL",
+    "I2C1_SDA",
+    "IRLED_INT",
+    "LCD_BL",
+    "NRST",
+    "PA0",
+    "PA1",
+    "PA10",
+    "PA11",
+    "PA12",
+    "PA13",
+    "PA14",
+    "PA15",
+    "PA2",
+    "PA3",
+    "PA4",
+    "PA5",
+    "PA6",
+    "PA7",
+    "PA8",
+    "PA9",
+    "PB0",
+    "PB1",
+    "PB10",
+    "PB11",
+    "PB12",
+    "PB13",
+    "PB14",
+    "PB15",
+    "PB2",
+    "PB3",
+    "PB4",
+    "PB5",
+    "PB6",
+    "PB7",
+    "PB8",
+    "PB9",
+    "PC0",
+    "PC1",
+    "PC10",
+    "PC11",
+    "PC12",
+    "PC13",
+    "PC2",
+    "PC3",
+    "PC4",
+    "PC5",
+    "PC6",
+    "PC7",
+    "PC8",
+    "PC9",
+    "PD0",
+    "PD1",
+    "PD10",
+    "PD11",
+    "PD12",
+    "PD13",
+    "PD14",
+    "PD15",
+    "PD2",
+    "PD3",
+    "PD4",
+    "PD5",
+    "PD6",
+    "PD7",
+    "PD8",
+    "PD9",
+    "PE0",
+    "PE1",
+    "PE10",
+    "PE11",
+    "PE12",
+    "PE13",
+    "PE14",
+    "PE15",
+    "PE2",
+    "PE3",
+    "PE4",
+    "PE5",
+    "PE6",
+    "PE7",
+    "PE8",
+    "PE9",
+    "PF0",
+    "PF1",
+    "PF10",
+    "PF11",
+    "PF12",
+    "PF13",
+    "PF14",
+    "PF15",
+    "PF2",
+    "PF3",
+    "PF4",
+    "PF5",
+    "PF6",
+    "PF7",
+    "PF8",
+    "PF9",
+    "PG0",
+    "PG1",
+    "PG10",
+    "PG11",
+    "PG12",
+    "PG13",
+    "PG14",
+    "PG15",
+    "PG2",
+    "PG3",
+    "PG4",
+    "PG5",
+    "PG6",
+    "PG7",
+    "PG8",
+    "PG9",
+    "SPI0_CLK",
+    "SPI0_MISO",
+    "SPI0_MOSI",
+    "SPIFlash_CS",
+    "TP_INT",
+    "TP_RST",
+    "TP_SCL",
+    "TP_SDA",
+    "VBAT"
+   ]
+  },
+  "485-232-CAN-TF.SchDoc": {
+   "file": "485-232-CAN-TF.SchDoc",
+   "components": [
+    {
+     "desig": "C28",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C29",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C31",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C32",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C33",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C34",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C35",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C40",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D11",
+     "libref": "Diode-Bi-TVS",
+     "params": {
+      "型号": "SMBJ6.5CA"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D12",
+     "libref": "Diode-Bi-TVS",
+     "params": {
+      "型号": "SMBJ6.5CA"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "D13",
+     "libref": "Diode-Bi-TVS",
+     "params": {
+      "型号": "SMBJ6.5CA"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "F2",
+     "libref": "Fuse",
+     "params": {
+      "型号": "SMD0805B005TF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "F3",
+     "libref": "Fuse",
+     "params": {
+      "型号": "SMD0805B005TF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "J13",
+     "libref": "Header 1*3-JUMP",
+     "params": {},
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "J14",
+     "libref": "CON_DB9",
+     "params": {
+      "Comment": "CON_DB9"
+     },
+     "pin_count": 11,
+     "copies": 1
+    },
+    {
+     "desig": "J15",
+     "libref": "Header 1*3-JUMP",
+     "params": {},
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "J16",
+     "libref": "Header 1*3-JUMP",
+     "params": {},
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "J17",
+     "libref": "Header 1*3-JUMP",
+     "params": {},
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "J6",
+     "libref": "Header 1*2_5.08",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "J7",
+     "libref": "Header 1*2_5.08",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "P1",
+     "libref": "Header-SD/SDHC",
+     "params": {
+      "Comment": "Header-SD/SDHC"
+     },
+     "pin_count": 13,
+     "copies": 1
+    },
+    {
+     "desig": "R22",
+     "libref": "Res",
+     "params": {
+      "型号": "0R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R23",
+     "libref": "Res",
+     "params": {
+      "型号": "120R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R24",
+     "libref": "Res",
+     "params": {
+      "型号": "100R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R25",
+     "libref": "Res",
+     "params": {
+      "型号": "20k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R27",
+     "libref": "Res",
+     "params": {
+      "型号": "20k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R29",
+     "libref": "Res",
+     "params": {
+      "型号": "100R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R35",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R36",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R37",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R38",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R48",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R6",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R76",
+     "libref": "Res",
+     "params": {
+      "型号": "100R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "U4",
+     "libref": "SN65HVD230",
+     "params": {
+      "Comment": "SN65HVD230"
+     },
+     "pin_count": 8,
+     "copies": 1
+    },
+    {
+     "desig": "U5",
+     "libref": "SSP485",
+     "params": {
+      "Comment": "SSP485"
+     },
+     "pin_count": 8,
+     "copies": 1
+    },
+    {
+     "desig": "U7",
+     "libref": "MAX3232CSE+",
+     "params": {
+      "Comment": "MAX3232CSE+"
+     },
+     "pin_count": 16,
+     "copies": 1
+    }
+   ],
+   "labels": [
+    "232",
+    "485",
+    "CAN",
+    "TF",
+    "公头"
+   ],
+   "power_nets": [
+    "232_3V3",
+    "3V3",
+    "485_3V3",
+    "CAN_3V3",
+    "GND"
+   ],
+   "text_netnames": [
+    "232_RX",
+    "232_TX",
+    "3V3",
+    "485_RX",
+    "485_TX",
+    "CANH",
+    "CANL",
+    "CAN_RX",
+    "CAN_TX",
+    "PA11",
+    "PA12",
+    "PA2",
+    "PA3",
+    "PC10",
+    "PC11",
+    "PC12",
+    "PC5",
+    "PC8",
+    "PC9",
+    "PD2",
+    "PD3",
+    "RS232_RX1",
+    "RS232_TX1",
+    "RS485A",
+    "RS485B",
+    "RS485_RE/DE",
+    "SDIO_CD",
+    "SDIO_CLK",
+    "SDIO_CMD",
+    "SDIO_DAT0",
+    "SDIO_DAT1",
+    "SDIO_DAT2",
+    "SDIO_DAT3",
+    "USART1_RX",
+    "USART1_TX",
+    "USB_DM",
+    "USB_DP"
+   ]
+  },
+  "Audio.SchDoc": {
+   "file": "Audio.SchDoc",
+   "components": [
+    {
+     "desig": "C54",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C55",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C56",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C57",
+     "libref": "Cap",
+     "params": {
+      "型号": "22pF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C58",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C59",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C60",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C61",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C62",
+     "libref": "Cap",
+     "params": {
+      "型号": "22pF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C63",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C64",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C65",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C66",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C67",
+     "libref": "Cap",
+     "params": {
+      "型号": "10uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C68",
+     "libref": "Cap",
+     "params": {
+      "型号": "10uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C69",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C70",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C75",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C76",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C77",
+     "libref": "Cap",
+     "params": {
+      "型号": "100pF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C78",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C79",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C80",
+     "libref": "Cap",
+     "params": {
+      "型号": "100nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C81",
+     "libref": "Cap",
+     "params": {
+      "型号": "10uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C82",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C83",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C84",
+     "libref": "Cap",
+     "params": {
+      "型号": "10nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C85",
+     "libref": "Cap",
+     "params": {
+      "型号": "10nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C86",
+     "libref": "Cap",
+     "params": {
+      "型号": "1uF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C87",
+     "libref": "Cap",
+     "params": {
+      "型号": "220nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C88",
+     "libref": "Cap",
+     "params": {
+      "型号": "220nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C89",
+     "libref": "Cap",
+     "params": {
+      "型号": "10nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "C90",
+     "libref": "Cap",
+     "params": {
+      "型号": "10nF"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "FB3",
+     "libref": "INDUCTOR",
+     "params": {
+      "型号": "600R±25% 100MHz"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "FB4",
+     "libref": "INDUCTOR",
+     "params": {
+      "型号": "600R±25% 100MHz"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "FB5",
+     "libref": "INDUCTOR",
+     "params": {
+      "型号": "600R±25% 100MHz"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "J22",
+     "libref": "Header 1*2-JUMP",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "J28",
+     "libref": "MIC_JACK",
+     "params": {
+      "Comment": "MIC_JACK"
+     },
+     "pin_count": 5,
+     "copies": 1
+    },
+    {
+     "desig": "J29",
+     "libref": "MIC_JACK",
+     "params": {
+      "Comment": "MIC_JACK"
+     },
+     "pin_count": 5,
+     "copies": 1
+    },
+    {
+     "desig": "J5",
+     "libref": "Header 1*2_2.54",
+     "params": {},
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "P2",
+     "libref": "MIC",
+     "params": {
+      "Comment": "MIC"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R28",
+     "libref": "Res",
+     "params": {
+      "型号": "1M"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R49",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R50",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R72",
+     "libref": "Res",
+     "params": {
+      "型号": "100k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R74",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R78",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R80",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R81",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R82",
+     "libref": "Res",
+     "params": {
+      "型号": "1k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R83",
+     "libref": "Res",
+     "params": {
+      "型号": "100k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R84",
+     "libref": "Res",
+     "params": {
+      "型号": "22k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R85",
+     "libref": "Res",
+     "params": {
+      "型号": "68k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R86",
+     "libref": "Res",
+     "params": {
+      "型号": "10k"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R87",
+     "libref": "Res",
+     "params": {
+      "型号": "470R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R88",
+     "libref": "Res",
+     "params": {
+      "型号": "470R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R89",
+     "libref": "Res",
+     "params": {
+      "型号": "20R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "R90",
+     "libref": "Res",
+     "params": {
+      "型号": "20R"
+     },
+     "pin_count": 2,
+     "copies": 1
+    },
+    {
+     "desig": "U15",
+     "libref": "VS1053",
+     "params": {
+      "Comment": "VS1053"
+     },
+     "pin_count": 48,
+     "copies": 1
+    },
+    {
+     "desig": "U16",
+     "libref": "XC6206P182MR",
+     "params": {
+      "Comment": "XC6206P182MR"
+     },
+     "pin_count": 3,
+     "copies": 1
+    },
+    {
+     "desig": "U17",
+     "libref": "FM8002A",
+     "params": {
+      "Comment": "FM8002A"
+     },
+     "pin_count": 8,
+     "copies": 1
+    },
+    {
+     "desig": "Y3",
+     "libref": "XTAL-4",
+     "params": {
+      "规格": "12.288MHz"
+     },
+     "pin_count": 4,
+     "copies": 1
+    }
+   ],
+   "labels": [
+    "AUDIO",
+    "CVDD",
+    "粉色麦克",
+    "绿色耳机"
+   ],
+   "power_nets": [
+    "+5V",
+    "3V3",
+    "AVDD",
+    "CVDD",
+    "FM_5V",
+    "GND",
+    "IO_VDD"
+   ],
+   "text_netnames": [
+    "LINE2",
+    "MICN",
+    "MICP/LINE1",
+    "MP3_LEFT",
+    "MP3_RIGHT",
+    "PA5",
+    "PA6",
+    "PA7",
+    "PC13",
+    "PE3",
+    "PE4",
+    "PE5",
+    "PG8",
+    "SPK_CTRL",
+    "SPK_N",
+    "SPK_P",
+    "VS_DREQ",
+    "VS_MISO",
+    "VS_MOSI",
+    "VS_RST",
+    "VS_SCK",
+    "VS_XCS",
+    "VS_XDCS"
+   ]
+  }
+ },
+ "net_pages": {
+  "+5V": [
+   "Audio.SchDoc",
+   "Power-WIFI.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "3V3": [
+   "485-232-CAN-TF.SchDoc",
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "CC1": [
+   "Power-WIFI.SchDoc"
+  ],
+  "CC2": [
+   "Power-WIFI.SchDoc"
+  ],
+  "DN": [
+   "Power-WIFI.SchDoc"
+  ],
+  "DP": [
+   "Power-WIFI.SchDoc"
+  ],
+  "GND": [
+   "485-232-CAN-TF.SchDoc",
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "IO8": [
+   "Power-WIFI.SchDoc"
+  ],
+  "IO9": [
+   "Power-WIFI.SchDoc"
+  ],
+  "PB10": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc"
+  ],
+  "PB11": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc"
+  ],
+  "PG7": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc"
+  ],
+  "U0RXD": [
+   "Power-WIFI.SchDoc"
+  ],
+  "U0TXD": [
+   "Power-WIFI.SchDoc"
+  ],
+  "USART2_RXD": [
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc"
+  ],
+  "USART2_TXD": [
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc"
+  ],
+  "USB_DM": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc"
+  ],
+  "USB_DP": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc"
+  ],
+  "WiFi_EN": [
+   "MCU.SchDoc",
+   "Power-WIFI.SchDoc"
+  ],
+  "WiFi_RXD": [
+   "Power-WIFI.SchDoc"
+  ],
+  "WiFi_TXD": [
+   "Power-WIFI.SchDoc"
+  ],
+  "DCDC": [
+   "Power-WIFI.SchDoc"
+  ],
+  "USB供电": [
+   "Power-WIFI.SchDoc"
+  ],
+  "WIFI": [
+   "Power-WIFI.SchDoc"
+  ],
+  "上电后1-2秒，拔掉J26的跳线帽。": [
+   "Power-WIFI.SchDoc"
+  ],
+  "引出电源、地": [
+   "Power-WIFI.SchDoc"
+  ],
+  "更新WiFi固件时，先断开WiFi电源，然后短接J26，然后给WiFi上电。": [
+   "Power-WIFI.SchDoc"
+  ],
+  "USB_IN": [
+   "Power-WIFI.SchDoc"
+  ],
+  "WIFI_3V3": [
+   "Power-WIFI.SchDoc"
+  ],
+  "ADC_RH": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "ADC_TEMP": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "ADJ_RES": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "BOOT0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "BOOT1": [
+   "MCU.SchDoc"
+  ],
+  "EXMC_A0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A10": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A11": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A12": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A13": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A14": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A15": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A16": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A17": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A18": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A2": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A3": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A4": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A5": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A6": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A7": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A8": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_A9": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D10": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D11": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D12": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D13": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D14": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D15": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D2": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D3": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D4": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D5": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D6": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D7": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D8": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_D9": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_INT1": [
+   "MCU.SchDoc"
+  ],
+  "EXMC_NBL0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_NBL1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_NCE1": [
+   "MCU.SchDoc"
+  ],
+  "EXMC_NE1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_NE3": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_NOE": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_NWAIT": [
+   "MCU.SchDoc"
+  ],
+  "EXMC_NWE": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "EXMC_RS": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "I2C0_SCL": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "I2C0_SDA": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "I2S2_WS": [
+   "MCU.SchDoc"
+  ],
+  "I2S_SD": [
+   "MCU.SchDoc"
+  ],
+  "IF_OUT": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "IRLED_INT": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "JNTRST": [
+   "MCU.SchDoc"
+  ],
+  "KEY1": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "KEY2": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "KEY3": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "KEY4": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "LCD_BL": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "LED1": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "LED2": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "LED3": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "NRST": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "OSC32_IN": [
+   "MCU.SchDoc"
+  ],
+  "OSC32_OUT": [
+   "MCU.SchDoc"
+  ],
+  "OSC_IN": [
+   "MCU.SchDoc"
+  ],
+  "OSC_OUT": [
+   "MCU.SchDoc"
+  ],
+  "PA0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PA1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA10": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA11": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA12": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA13": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA14": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA15": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA2": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA3": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA4": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA5": [
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA6": [
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA7": [
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PA8": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PA9": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PB1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PB12": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB13": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB14": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB15": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB2": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB3": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB4": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB5": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB6": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB7": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PB8": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PB9": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC10": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC11": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC12": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC13": [
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC14": [
+   "MCU.SchDoc"
+  ],
+  "PC15": [
+   "MCU.SchDoc"
+  ],
+  "PC2": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PC3": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PC4": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PC5": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC6": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PC7": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC8": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PC9": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD10": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD11": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD12": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD13": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD14": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD15": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD2": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD3": [
+   "485-232-CAN-TF.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD4": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD5": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD6": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD7": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD8": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PD9": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE10": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE11": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE12": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE13": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE14": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE15": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE2": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE3": [
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE4": [
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE5": [
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE6": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PE7": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE8": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PE9": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF10": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF11": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF12": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF13": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF14": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF15": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF2": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF3": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF4": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF5": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF6": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PF7": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF8": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PF9": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG0": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG1": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG10": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG11": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG12": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG13": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PG14": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PG15": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "PG2": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG3": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG4": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG5": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG6": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG8": [
+   "Audio.SchDoc",
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "PG9": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "RS485_RE/DE": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "RTCK": [
+   "MCU.SchDoc"
+  ],
+  "SDIO_CD": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SDIO_CLK": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SDIO_CMD": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SDIO_DAT0": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SDIO_DAT1": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SDIO_DAT2": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SDIO_DAT3": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SPI0_CLK": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SPI0_MISO": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SPI0_MOSI": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SPIFlash_CS": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "SPK": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "SPK_CTRL": [
+   "Audio.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "TCK-SWCLK": [
+   "MCU.SchDoc"
+  ],
+  "TDI": [
+   "MCU.SchDoc"
+  ],
+  "TDO": [
+   "MCU.SchDoc"
+  ],
+  "TIMER2_CH2": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "TIMER2_CH3": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "TMS-SWDIO": [
+   "MCU.SchDoc"
+  ],
+  "TP_INT": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "TP_RST": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "TP_SCL": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "TP_SDA": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "USART0_RX": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "USART0_TX": [
+   "MCU.SchDoc",
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "USART1_RX": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "USART1_TX": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "VS_DREQ": [
+   "Audio.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "VS_MISO": [
+   "Audio.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "VS_MOSI": [
+   "Audio.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "VS_RST": [
+   "Audio.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "VS_SCK": [
+   "Audio.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "VS_XCS": [
+   "Audio.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "VS_XDCS": [
+   "Audio.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "1": [
+   "MCU.SchDoc"
+  ],
+  "BOOT": [
+   "MCU.SchDoc"
+  ],
+  "CAN_RX": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "CAN_TX": [
+   "485-232-CAN-TF.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "JTAG": [
+   "MCU.SchDoc"
+  ],
+  "MCU": [
+   "MCU.SchDoc"
+  ],
+  "N": [
+   "MCU.SchDoc"
+  ],
+  "O": [
+   "MCU.SchDoc"
+  ],
+  "VBAT": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc",
+   "MCU.SchDoc"
+  ],
+  "复位": [
+   "MCU.SchDoc"
+  ],
+  "晶振": [
+   "MCU.SchDoc"
+  ],
+  "AGND": [
+   "MCU.SchDoc"
+  ],
+  "VDD": [
+   "MCU.SchDoc"
+  ],
+  "VDDA": [
+   "MCU.SchDoc"
+  ],
+  "VREF": [
+   "MCU.SchDoc"
+  ],
+  "DRT#": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "D_N": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "D_P": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "RTS#": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "USB_RX": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "USB_TX": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "47-220R": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "IR": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "LED": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "USB转串口": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "≥10k": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "≥2.2uF": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "可调电阻": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "按键": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "湿敏电阻": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "热敏电阻": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "蜂鸣器": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "VDD_USB": [
+   "Sensors-LED-KEY-USB_.SchDoc"
+  ],
+  "I2C1_SCL": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc"
+  ],
+  "I2C1_SDA": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc"
+  ],
+  "ALS+PS+IRLED": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc"
+  ],
+  "EEPROM": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc"
+  ],
+  "LCD": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc"
+  ],
+  "NOR FLASH": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc"
+  ],
+  "SRAM": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc"
+  ],
+  "引出IO": [
+   "LCD-EEPROM-IRLED-FLASH-EXTENSION.SchDoc"
+  ],
+  "232_RX": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "232_TX": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "485_RX": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "485_TX": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "CANH": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "CANL": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "RS232_RX1": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "RS232_TX1": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "RS485A": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "RS485B": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "232": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "485": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "CAN": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "TF": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "公头": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "232_3V3": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "485_3V3": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "CAN_3V3": [
+   "485-232-CAN-TF.SchDoc"
+  ],
+  "LINE2": [
+   "Audio.SchDoc"
+  ],
+  "MICN": [
+   "Audio.SchDoc"
+  ],
+  "MICP/LINE1": [
+   "Audio.SchDoc"
+  ],
+  "MP3_LEFT": [
+   "Audio.SchDoc"
+  ],
+  "MP3_RIGHT": [
+   "Audio.SchDoc"
+  ],
+  "SPK_N": [
+   "Audio.SchDoc"
+  ],
+  "SPK_P": [
+   "Audio.SchDoc"
+  ],
+  "AUDIO": [
+   "Audio.SchDoc"
+  ],
+  "CVDD": [
+   "Audio.SchDoc"
+  ],
+  "粉色麦克": [
+   "Audio.SchDoc"
+  ],
+  "绿色耳机": [
+   "Audio.SchDoc"
+  ],
+  "AVDD": [
+   "Audio.SchDoc"
+  ],
+  "FM_5V": [
+   "Audio.SchDoc"
+  ],
+  "IO_VDD": [
+   "Audio.SchDoc"
+  ]
+ },
+ "net_kind": {
+  "+5V": "Text",
+  "3V3": "Text",
+  "CC1": "Text",
+  "CC2": "Text",
+  "DN": "Text",
+  "DP": "Text",
+  "GND": "Text",
+  "IO8": "Text",
+  "IO9": "Text",
+  "PB10": "Text",
+  "PB11": "Text",
+  "PG7": "Text",
+  "U0RXD": "Text",
+  "U0TXD": "Text",
+  "USART2_RXD": "Text",
+  "USART2_TXD": "Text",
+  "USB_DM": "Text",
+  "USB_DP": "Text",
+  "WiFi_EN": "Text",
+  "WiFi_RXD": "Text",
+  "WiFi_TXD": "Text",
+  "DCDC": "Label",
+  "USB供电": "Label",
+  "WIFI": "Label",
+  "上电后1-2秒，拔掉J26的跳线帽。": "Label",
+  "引出电源、地": "Label",
+  "更新WiFi固件时，先断开WiFi电源，然后短接J26，然后给WiFi上电。": "Label",
+  "USB_IN": "Power",
+  "WIFI_3V3": "Power",
+  "ADC_RH": "Text",
+  "ADC_TEMP": "Text",
+  "ADJ_RES": "Text",
+  "BOOT0": "Text",
+  "BOOT1": "Text",
+  "EXMC_A0": "Text",
+  "EXMC_A1": "Text",
+  "EXMC_A10": "Text",
+  "EXMC_A11": "Text",
+  "EXMC_A12": "Text",
+  "EXMC_A13": "Text",
+  "EXMC_A14": "Text",
+  "EXMC_A15": "Text",
+  "EXMC_A16": "Text",
+  "EXMC_A17": "Text",
+  "EXMC_A18": "Text",
+  "EXMC_A2": "Text",
+  "EXMC_A3": "Text",
+  "EXMC_A4": "Text",
+  "EXMC_A5": "Text",
+  "EXMC_A6": "Text",
+  "EXMC_A7": "Text",
+  "EXMC_A8": "Text",
+  "EXMC_A9": "Text",
+  "EXMC_D0": "Text",
+  "EXMC_D1": "Text",
+  "EXMC_D10": "Text",
+  "EXMC_D11": "Text",
+  "EXMC_D12": "Text",
+  "EXMC_D13": "Text",
+  "EXMC_D14": "Text",
+  "EXMC_D15": "Text",
+  "EXMC_D2": "Text",
+  "EXMC_D3": "Text",
+  "EXMC_D4": "Text",
+  "EXMC_D5": "Text",
+  "EXMC_D6": "Text",
+  "EXMC_D7": "Text",
+  "EXMC_D8": "Text",
+  "EXMC_D9": "Text",
+  "EXMC_INT1": "Text",
+  "EXMC_NBL0": "Text",
+  "EXMC_NBL1": "Text",
+  "EXMC_NCE1": "Text",
+  "EXMC_NE1": "Text",
+  "EXMC_NE3": "Text",
+  "EXMC_NOE": "Text",
+  "EXMC_NWAIT": "Text",
+  "EXMC_NWE": "Text",
+  "EXMC_RS": "Text",
+  "I2C0_SCL": "Text",
+  "I2C0_SDA": "Text",
+  "I2S2_WS": "Text",
+  "I2S_SD": "Text",
+  "IF_OUT": "Text",
+  "IRLED_INT": "Text",
+  "JNTRST": "Text",
+  "KEY1": "Text",
+  "KEY2": "Text",
+  "KEY3": "Text",
+  "KEY4": "Text",
+  "LCD_BL": "Text",
+  "LED1": "Text",
+  "LED2": "Text",
+  "LED3": "Text",
+  "NRST": "Text",
+  "OSC32_IN": "Text",
+  "OSC32_OUT": "Text",
+  "OSC_IN": "Text",
+  "OSC_OUT": "Text",
+  "PA0": "Text",
+  "PA1": "Text",
+  "PA10": "Text",
+  "PA11": "Text",
+  "PA12": "Text",
+  "PA13": "Text",
+  "PA14": "Text",
+  "PA15": "Text",
+  "PA2": "Text",
+  "PA3": "Text",
+  "PA4": "Text",
+  "PA5": "Text",
+  "PA6": "Text",
+  "PA7": "Text",
+  "PA8": "Text",
+  "PA9": "Text",
+  "PB0": "Text",
+  "PB1": "Text",
+  "PB12": "Text",
+  "PB13": "Text",
+  "PB14": "Text",
+  "PB15": "Text",
+  "PB2": "Text",
+  "PB3": "Text",
+  "PB4": "Text",
+  "PB5": "Text",
+  "PB6": "Text",
+  "PB7": "Text",
+  "PB8": "Text",
+  "PB9": "Text",
+  "PC0": "Text",
+  "PC1": "Text",
+  "PC10": "Text",
+  "PC11": "Text",
+  "PC12": "Text",
+  "PC13": "Text",
+  "PC14": "Text",
+  "PC15": "Text",
+  "PC2": "Text",
+  "PC3": "Text",
+  "PC4": "Text",
+  "PC5": "Text",
+  "PC6": "Text",
+  "PC7": "Text",
+  "PC8": "Text",
+  "PC9": "Text",
+  "PD0": "Text",
+  "PD1": "Text",
+  "PD10": "Text",
+  "PD11": "Text",
+  "PD12": "Text",
+  "PD13": "Text",
+  "PD14": "Text",
+  "PD15": "Text",
+  "PD2": "Text",
+  "PD3": "Text",
+  "PD4": "Text",
+  "PD5": "Text",
+  "PD6": "Text",
+  "PD7": "Text",
+  "PD8": "Text",
+  "PD9": "Text",
+  "PE0": "Text",
+  "PE1": "Text",
+  "PE10": "Text",
+  "PE11": "Text",
+  "PE12": "Text",
+  "PE13": "Text",
+  "PE14": "Text",
+  "PE15": "Text",
+  "PE2": "Text",
+  "PE3": "Text",
+  "PE4": "Text",
+  "PE5": "Text",
+  "PE6": "Text",
+  "PE7": "Text",
+  "PE8": "Text",
+  "PE9": "Text",
+  "PF0": "Text",
+  "PF1": "Text",
+  "PF10": "Text",
+  "PF11": "Text",
+  "PF12": "Text",
+  "PF13": "Text",
+  "PF14": "Text",
+  "PF15": "Text",
+  "PF2": "Text",
+  "PF3": "Text",
+  "PF4": "Text",
+  "PF5": "Text",
+  "PF6": "Text",
+  "PF7": "Text",
+  "PF8": "Text",
+  "PF9": "Text",
+  "PG0": "Text",
+  "PG1": "Text",
+  "PG10": "Text",
+  "PG11": "Text",
+  "PG12": "Text",
+  "PG13": "Text",
+  "PG14": "Text",
+  "PG15": "Text",
+  "PG2": "Text",
+  "PG3": "Text",
+  "PG4": "Text",
+  "PG5": "Text",
+  "PG6": "Text",
+  "PG8": "Text",
+  "PG9": "Text",
+  "RS485_RE/DE": "Text",
+  "RTCK": "Text",
+  "SDIO_CD": "Text",
+  "SDIO_CLK": "Text",
+  "SDIO_CMD": "Text",
+  "SDIO_DAT0": "Text",
+  "SDIO_DAT1": "Text",
+  "SDIO_DAT2": "Text",
+  "SDIO_DAT3": "Text",
+  "SPI0_CLK": "Text",
+  "SPI0_MISO": "Text",
+  "SPI0_MOSI": "Text",
+  "SPIFlash_CS": "Text",
+  "SPK": "Text",
+  "SPK_CTRL": "Text",
+  "TCK-SWCLK": "Text",
+  "TDI": "Text",
+  "TDO": "Text",
+  "TIMER2_CH2": "Text",
+  "TIMER2_CH3": "Text",
+  "TMS-SWDIO": "Text",
+  "TP_INT": "Text",
+  "TP_RST": "Text",
+  "TP_SCL": "Text",
+  "TP_SDA": "Text",
+  "USART0_RX": "Text",
+  "USART0_TX": "Text",
+  "USART1_RX": "Text",
+  "USART1_TX": "Text",
+  "VS_DREQ": "Text",
+  "VS_MISO": "Text",
+  "VS_MOSI": "Text",
+  "VS_RST": "Text",
+  "VS_SCK": "Text",
+  "VS_XCS": "Text",
+  "VS_XDCS": "Text",
+  "1": "Label",
+  "BOOT": "Label",
+  "CAN_RX": "Label",
+  "CAN_TX": "Label",
+  "JTAG": "Label",
+  "MCU": "Label",
+  "N": "Label",
+  "O": "Label",
+  "VBAT": "Label",
+  "复位": "Label",
+  "晶振": "Label",
+  "AGND": "Power",
+  "VDD": "Power",
+  "VDDA": "Power",
+  "VREF": "Power",
+  "DRT#": "Text",
+  "D_N": "Text",
+  "D_P": "Text",
+  "RTS#": "Text",
+  "USB_RX": "Text",
+  "USB_TX": "Text",
+  "47-220R": "Label",
+  "IR": "Label",
+  "LED": "Label",
+  "USB转串口": "Label",
+  "≥10k": "Label",
+  "≥2.2uF": "Label",
+  "可调电阻": "Label",
+  "按键": "Label",
+  "湿敏电阻": "Label",
+  "热敏电阻": "Label",
+  "蜂鸣器": "Label",
+  "VDD_USB": "Power",
+  "I2C1_SCL": "Text",
+  "I2C1_SDA": "Text",
+  "ALS+PS+IRLED": "Label",
+  "EEPROM": "Label",
+  "LCD": "Label",
+  "NOR FLASH": "Label",
+  "SRAM": "Label",
+  "引出IO": "Label",
+  "232_RX": "Text",
+  "232_TX": "Text",
+  "485_RX": "Text",
+  "485_TX": "Text",
+  "CANH": "Text",
+  "CANL": "Text",
+  "RS232_RX1": "Text",
+  "RS232_TX1": "Text",
+  "RS485A": "Text",
+  "RS485B": "Text",
+  "232": "Label",
+  "485": "Label",
+  "CAN": "Label",
+  "TF": "Label",
+  "公头": "Label",
+  "232_3V3": "Power",
+  "485_3V3": "Power",
+  "CAN_3V3": "Power",
+  "LINE2": "Text",
+  "MICN": "Text",
+  "MICP/LINE1": "Text",
+  "MP3_LEFT": "Text",
+  "MP3_RIGHT": "Text",
+  "SPK_N": "Text",
+  "SPK_P": "Text",
+  "AUDIO": "Label",
+  "CVDD": "Label",
+  "粉色麦克": "Label",
+  "绿色耳机": "Label",
+  "AVDD": "Power",
+  "FM_5V": "Power",
+  "IO_VDD": "Power"
+ }
+}

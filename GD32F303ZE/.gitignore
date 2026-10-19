@@ -1,0 +1,18 @@
+# dot files
+# 注意：.vscode/launch.json 是工程资产（调试配置），作为模板要跟踪，不要忽略
+/.settings
+/.eide/log
+/.eide.usr.ctx.json
+
+# project out
+/build
+/bin
+/obj
+/out
+
+# eide template
+*.ept
+*.eide-template
+
+# chip pack（EIDE 管理的芯片包，可重新安装，约 8MB）
+/.pack

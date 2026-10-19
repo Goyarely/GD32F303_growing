@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "GD32F303ZE (OpenOCD)",
+            "cwd": "${workspaceFolder}",
+            "executable": "${workspaceFolder}/build/Debug/GD32F303ZE",
+            "request": "launch",
+            "type": "cortex-debug",
+            "runToEntryPoint": "main",
+            "servertype": "openocd",
+            "device": "GD32F303ZE",
+            "configFiles": [
+                "interface/stlink.cfg",
+                "openocd/gd32f30x.cfg"
+            ],
+            "svdFile": "${workspaceFolder}/.pack/GigaDevice/GD32F30x_DFP.2.0.0/SVD/GD32F30x_HD.svd",
+            "gdbPath": "arm-none-eabi-gdb",
+            "preLaunchTask": "build"
+        }
+    ]
+}

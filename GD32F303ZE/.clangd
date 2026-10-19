@@ -1,0 +1,9 @@
+# clangd 项目配置
+#
+# SPL（标准外设库）工程的惯例是只包含总头文件 gd32f30x.h，
+# 由 gd32f30x_libopt.h 一次性引入各外设头，
+# 因此关闭"头文件未被直接使用(unused-includes)"提示。
+# 编译配置来自 EIDE 生成的 build/Debug/compile_commands.json
+
+Diagnostics:
+  UnusedIncludes: None

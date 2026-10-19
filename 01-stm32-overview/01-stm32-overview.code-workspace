@@ -1,0 +1,55 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        // clangd 使用 EIDE 构建时生成的 compile_commands.json（在 build/Debug 下），
+        // 否则找不到 -I 路径，所有头文件都会标红
+        // --query-driver：允许 clangd 询问 arm-none-eabi-gcc 的系统头路径，
+        // 否则 stdio.h 等 newlib 头文件会报 file not found
+        "clangd.arguments": [
+            "--header-insertion=never",
+            "--compile-commands-dir=build/Debug",
+            "--query-driver=/usr/bin/arm-none-eabi-*"
+        ],
+        "files.autoGuessEncoding": true,
+        "C_Cpp.default.configurationProvider": "cl.eide",
+        "C_Cpp.errorSquiggles": "disabled",
+        // 避免 clangd 与 cpptools 两个语言服务同时索引（二选一，此处保留 clangd）
+        "C_Cpp.intelliSenseEngine": "disabled",
+        "files.associations": {
+            ".eideignore": "ignore",
+            "*.a51": "a51",
+            "*.h": "c",
+            "*.c": "c",
+            "*.hxx": "cpp",
+            "*.hpp": "cpp",
+            "*.c++": "cpp",
+            "*.cpp": "cpp",
+            "*.cxx": "cpp",
+            "*.cc": "cpp"
+        },
+        "[yaml]": {
+            "editor.insertSpaces": true,
+            "editor.tabSize": 4,
+            "editor.autoIndent": "advanced"
+        }
+    },
+    "extensions": {
+        "recommendations": [
+            "cl.eide",
+            "keroc.hex-fmt",
+            "xiaoyongdong.srecord",
+            "hars.cppsnippets",
+            "zixuanwang.linkerscript",
+            "redhat.vscode-yaml",
+            "IBM.output-colorizer",
+            "cschlosser.doxdocgen",
+            "ms-vscode.vscode-serial-monitor",
+            "dan-c-underwood.arm",
+            "marus25.cortex-debug"
+        ]
+    }
+}

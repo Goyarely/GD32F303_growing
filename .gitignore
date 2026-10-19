@@ -1,0 +1,24 @@
+# 构建产物（各工程目录下的 build/ 由工程自己的 .gitignore 兜底，这里双保险）
+build/
+bin/
+obj/
+out/
+
+# 官方资料（393M：手册 PDF + 固件库源码，均可从 gd32mcu.com 重新下载）
+# 想把资料也放进仓库：删掉下面这行（或改用 Git LFS 管理 PDF）
+/material/
+
+# EIDE 芯片包（约 8MB/工程，可重新安装）
+.pack/
+
+# EIDE 运行时文件
+.eide/log/
+.eide.usr.ctx.json
+
+# 编辑器
+.vscode/.browse.*
+*.tmp
+
+# 系统文件
+.DS_Store
+Thumbs.db
